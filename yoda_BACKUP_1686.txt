@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Not try there is, do or do not.
+=======
+DO OR DO NOT,THERE IS NO TRY
+>>>>>>> information is changed in yoda.txt
